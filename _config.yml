@@ -1,4 +1,23 @@
-title: My Project Portfolio
-author: Orson Lee
-description: A portfolio of my data and supply chain analytics projects.
+title: "Orson Lee" # Top left
+description: "Data & Supply Chain Analytics Portfolio"
 theme: minima
+
+# Top right nav links
+header_pages:
+  - index.md
+
+# Navigation links
+nav:
+  - title: "Portfolio"
+    url: "/"
+
+# Social links (shown in footer)
+social_links:
+  - { platform: github,  user_url: "https://github.com/osnlz1694" }
+  - { platform: linkedin, user_url: "https://linkedin.com/in/osnlz1694" }
+
+# Enable footer links
+minima:
+  social_links:
+    enabled: true
+
