@@ -1,9 +1,10 @@
 title: "Orson Lee"
-description: "" # Leave this blank to prevent double name
+description: ""  # Leave empty to avoid repeated text
 theme: minima
 
 header_pages:
   - index.md
+  - contact.md
 
 minima:
   social_links:
