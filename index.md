@@ -1,10 +1,16 @@
 ---
 layout: home
-title: My Project Portfolio
+title: Portfolio
 ---
 
-Welcome to my project portfolio! Here are some of my favorite projects:
+## Featured Projects
 
 - [Supplier Performance Analysis](./projects/supplier-performance)
 - [Sales Dashboard in Tableau](./projects/sales-dashboard)
-- [Other Projects](./projects/)
+
+---
+
+### Contact:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/osnlz1694)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
