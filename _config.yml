@@ -1,19 +1,13 @@
-title: "Orson Lee" # Top left
-description: "Data & Supply Chain Analytics Portfolio"
+title: "Orson Lee"
+description: "" # Leave this blank to prevent double name
 theme: minima
 
-# Top right nav links
 header_pages:
   - index.md
 
-# Navigation links
-nav:
-  - title: "Portfolio"
-    url: "/"
-
-# Social links (footer)
 minima:
   social_links:
-    - { platform: github,  user_url: "https://github.com/osnlz1694" }
-    - { platform: linkedin, user_url: "https://linkedin.com/in/osnlz1694" }
-
+    - platform: github
+      user_url: "https://github.com/osnlz1694"
+    - platform: linkedin
+      user_url: "https://linkedin.com/in/osnlz1694"
