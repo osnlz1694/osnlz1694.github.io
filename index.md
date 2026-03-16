@@ -33,7 +33,7 @@ Insurers must design pricing structures that balance affordability with stable r
 
 ## Featured Projects
 
-<img align="left" width="250" height="160" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Identifying and Prioritizing Underperforming Suppliers](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
+<img align="left" width="250" height="170" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Identifying and Prioritizing Underperforming Suppliers](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
 
 Strong supplier performance is essential for keeping operations smooth and minimizing costly disruptions. Defective materials and delays can lead to significant downtime, affecting both efficiency and customer satisfaction. To manage these risks, it’s important to track and evaluate supplier quality using reliable data.
 
