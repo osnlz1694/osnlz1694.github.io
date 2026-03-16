@@ -38,13 +38,13 @@ Insurers must design pricing structures that balance affordability with stable r
 Strong supplier performance is essential for keeping operations smooth and minimizing costly disruptions. Defective materials and delays can lead to significant downtime, affecting both efficiency and customer satisfaction. To manage these risks, it’s important to track and evaluate supplier quality using reliable data.
 
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Analyzing and Visualizing Price Patterns of In-game Items](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
-
-Project description in progress.
-
-
 ## Other Projects
 
-**Predicting Housing Prices in Cook County**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Analyzing and Visualizing Price Patterns of In-game Items](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
 
-Project description in progress.
+Online marketplace prices can shift quickly as player demand changes across game seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization help reveal price volatility and highlight optimal buy/sell windows for maximizing short-run profits.
+
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County]**
+
+Accurately estimating housing prices is important for understanding housing market dynamics and supporting fair property valuation. By analyzing large property datasets and applying regression modeling techniques, analysts can identify key factors that influence home prices.
