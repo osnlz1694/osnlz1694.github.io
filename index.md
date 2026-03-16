@@ -27,7 +27,7 @@ Pricing catastrophe risk accurately is essential for insurers managing exposure 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Fall 2025 Beam Benefits Case Competition]**
 
-Health insurers must carefully design pricing structures that balance affordability with sustainable risk pools. When multiple plan options are offered, differences in pricing and benefits can create incentives for adverse selection, where higher-risk individuals disproportionately enroll in more generous plans. To manage this risk, insurers analyze how pricing and cost-sharing structures influence member behavior. By evaluating these dynamics and modeling incentives such as discounts or penalties, organizations can design benefit structures that encourage balanced enrollment and maintain stable premiums.
+Health insurers must carefully design pricing structures that balance affordability with sustainable risk pools. When multiple plan options are offered, differences in pricing and benefits can create incentives for adverse selection, where higher-risk individuals disproportionately enroll in more generous plans. To manage this risk, insurers analyze how pricing and cost-sharing structures influence member behavior.
 
 
 ## Featured Projects
