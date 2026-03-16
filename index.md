@@ -3,6 +3,30 @@ layout: home
 title: Portfolio
 ---
 
+## Currently Working On
+
+Demography 130 Research Project
+
+Research project currently in planning phase.
+
+Net Revenue Management Case Study
+
+gg
+
+## Case Competitions
+
+Spring 2026 Beam Benefits Case Competition
+
+gg
+
+Travelers Actuarial Case Competition
+
+gg
+
+Fall 2025 Beam Benefits Case Competition
+
+gg
+
 ## Featured Projects
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Identifying and Prioritizing Underperforming Suppliers](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
@@ -12,4 +36,4 @@ Strong supplier performance is essential for keeping operations smooth and minim
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Analyzing and Visualizing Price Patterns of In-game Items](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
 
-Project description here.
+Project description in progress.
