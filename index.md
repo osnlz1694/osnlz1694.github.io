@@ -15,15 +15,15 @@ gg
 
 ## Case Competitions
 
-Spring 2026 Beam Benefits Case Competition
+**Spring 2026 Beam Benefits Case Competition**
 
 gg
 
-Travelers Actuarial Case Competition
+**Travelers Actuarial Case Competition**
 
 gg
 
-Fall 2025 Beam Benefits Case Competition
+**Fall 2025 Beam Benefits Case Competition**
 
 gg
 
