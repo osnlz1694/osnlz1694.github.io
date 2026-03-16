@@ -28,7 +28,7 @@ Pricing catastrophe risk is essential for insurers managing exposure to rare but
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Fall 2025 Beam Benefits Case Competition**
 
-Health insurers must design pricing structures that balance affordability with stable risk pools. When multiple plan options exist, adverse selection can occur if higher-risk members choose more generous plans. Analyzing pricing incentives and cost-sharing structures helps insurers manage risk and maintain stable premiums.
+Insurers must design pricing structures that balance affordability with stable risk pools. When multiple plan options exist, adverse selection can occur if higher-risk members choose more generous plans. Analyzing pricing incentives and cost-sharing structures helps insurers manage risk and maintain stable premiums.
 
 
 ## Featured Projects
@@ -39,5 +39,12 @@ Strong supplier performance is essential for keeping operations smooth and minim
 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Analyzing and Visualizing Price Patterns of In-game Items](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
+
+Project description in progress.
+
+
+## Other Projects
+
+**Predicting Housing Prices in Cook County**
 
 Project description in progress.
