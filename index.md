@@ -5,11 +5,11 @@ title: Portfolio
 
 ## Currently Working On
 
-Demography 130 Research Project
+**Demography 130 Research Project**
 
 Research project currently in planning phase.
 
-Net Revenue Management Case Study
+**Net Revenue Management Case Study**
 
 gg
 
@@ -19,11 +19,11 @@ gg
 
 gg
 
-**Travelers Actuarial Case Competition**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **Travelers Actuarial Case Competition**
 
 gg
 
-**Fall 2025 Beam Benefits Case Competition**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Fall 2025 Beam Benefits Case Competition**
 
 gg
 
