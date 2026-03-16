@@ -15,8 +15,7 @@ gg
 
 ## Case Competitions
 
-![698aa7b297ec6ff57b4e95b5_beam-thumb](https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2)
-**Spring 2026 Beam Benefits Case Competition**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Spring 2026 Beam Benefits Case Competition**
 
 gg
 
