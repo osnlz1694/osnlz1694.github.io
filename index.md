@@ -45,6 +45,6 @@ Strong supplier performance is essential for keeping operations smooth and minim
 In-game item prices can shift quickly as player demand changes across seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization highlight optimal buy/sell windows for maximizing short-run profits.
 
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County]**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County](https://github.com/osnlz1694/Predicting-Housing-Prices-in-Cook-County)**
 
 Accurately estimating housing prices is important for understanding housing market dynamics and supporting fair property valuation. By analyzing large property datasets and applying regression modeling techniques, analysts can identify key factors that influence home prices.
