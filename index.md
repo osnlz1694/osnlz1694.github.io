@@ -17,7 +17,7 @@ gg
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Spring 2026 Beam Benefits Case Competition]**
 
-gg
+Accurately estimating unpaid claims is critical for maintaining the financial stability of health benefit providers. Because many healthcare claims are reported and paid months after services occur, organizations must rely on actuarial reserving techniques to project incurred but not paid (IBNP) liabilities. Using historical claims utilization data, analysts can identify payment development patterns and apply reserving methods to estimate outstanding obligations. These estimates help organizations better understand financial risk and make informed decisions about reserving strategies.
 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **[Travelers Actuarial Case Competition]**
