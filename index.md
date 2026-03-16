@@ -42,7 +42,7 @@ Strong supplier performance is essential for keeping operations smooth and minim
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Analyzing and Visualizing Price Patterns of In-game Items](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
 
-In-game item prices can shift quickly as player demand changes across seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization help reveal price volatility and highlight optimal buy/sell windows for maximizing short-run profits.
+In-game item prices can shift quickly as player demand changes across seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization highlight optimal buy/sell windows for maximizing short-run profits.
 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County]**
