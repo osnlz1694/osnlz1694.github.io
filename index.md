@@ -11,24 +11,24 @@ Research project currently in planning phase.
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study]**
 
-Effective NRM helps companies launch new products while maintaining strong profitability. Businesses analyze sales performance, market share, and pricing strategies to identify growth opportunities. By combining historical sales analysis with financial modeling, organizations can forecast revenue growth and evaluate how pricing, costs, and trade investments affect margins.
+Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
 
 
 ## Case Competitions
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Spring 2026 Beam Benefits Case Competition]**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Spring 2026 Beam Benefits Case Competition**
 
-Accurately estimating unpaid claims is critical for maintaining the financial stability of health insurers. Because claims are often reported and paid months after services occur, actuaries analyze historical payment patterns and apply reserving methods to estimate IBNP liabilities, helping organizations evaluate financial risk and make informed reserving decisions.
-
-
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **[Travelers Actuarial Case Competition]**
-
-Pricing catastrophe risk accurately is essential for insurers managing exposure to large, unpredictable losses. Natural disasters such as hurricanes, wildfires, and severe storms can create significant financial volatility, making it critical to evaluate historical loss patterns and model extreme events. By combining long-term loss data with catastrophe risk modeling, actuaries can estimate pure premium rates that reflect both expected losses and tail risk.
+Accurately estimating unpaid claims is critical for maintaining the financial stability of health insurers. Because claims are often reported and paid months after services occur, actuaries analyze historical payment patterns and apply reserving methods to estimate IBNP liabilities.
 
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Fall 2025 Beam Benefits Case Competition]**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **Travelers Actuarial Case Competition**
 
-Health insurers must carefully design pricing structures that balance affordability with sustainable risk pools. When multiple plan options are offered, differences in pricing and benefits can create incentives for adverse selection, where higher-risk individuals disproportionately enroll in more generous plans. To manage this risk, insurers analyze how pricing and cost-sharing structures influence member behavior.
+Pricing catastrophe risk is essential for insurers managing exposure to rare but severe losses. By analyzing long-term loss data and modeling extreme events, actuaries estimate pure premiums that reflect both expected losses and tail risk.
+
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Fall 2025 Beam Benefits Case Competition**
+
+Health insurers must design pricing structures that balance affordability with stable risk pools. When multiple plan options exist, adverse selection can occur if higher-risk members choose more generous plans. Analyzing pricing incentives and cost-sharing structures helps insurers manage risk and maintain stable premiums.
 
 
 ## Featured Projects
