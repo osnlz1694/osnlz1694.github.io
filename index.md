@@ -22,7 +22,7 @@ Accurately estimating unpaid claims is critical for maintaining the financial st
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **[Travelers Actuarial Case Competition]**
 
-Pricing catastrophe risk accurately is essential for insurers managing exposure to large, unpredictable losses. Natural disasters such as hurricanes, wildfires, and severe storms can create significant financial volatility, making it critical to evaluate historical loss patterns and model potential extreme events. By combining long-term loss data with catastrophe risk modeling, actuaries can estimate pure premium rates that reflect both expected losses and tail risk. These analyses help insurers set sustainable pricing strategies while meeting regulatory requirements and maintaining financial resilience.
+Pricing catastrophe risk accurately is essential for insurers managing exposure to large, unpredictable losses. Natural disasters such as hurricanes, wildfires, and severe storms can create significant financial volatility, making it critical to evaluate historical loss patterns and model potential extreme events. By combining long-term loss data with catastrophe risk modeling, actuaries can estimate pure premium rates that reflect both expected losses and tail risk.
 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Fall 2025 Beam Benefits Case Competition]**
