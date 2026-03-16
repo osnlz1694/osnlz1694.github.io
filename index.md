@@ -11,7 +11,7 @@ Research project currently in planning phase.
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study]**
 
-Effective net revenue management (NRM) is essential for companies launching new products in competitive markets. Businesses must evaluate sales performance, market share, and pricing strategies to identify opportunities for sustainable growth. By analyzing historical sales data and applying financial modeling techniques, organizations can estimate the impact of pricing, trade investments, and cost structures on profitability.
+Effective NRM helps companies launch new products while maintaining strong profitability. Businesses analyze sales performance, market share, and pricing strategies to identify growth opportunities. By combining historical sales analysis with financial modeling, organizations can forecast revenue growth and evaluate how pricing, costs, and trade investments affect margins.
 
 
 ## Case Competitions
@@ -23,7 +23,7 @@ Accurately estimating unpaid claims is critical for maintaining the financial st
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **[Travelers Actuarial Case Competition]**
 
-Pricing catastrophe risk accurately is essential for insurers managing exposure to large, unpredictable losses. Natural disasters such as hurricanes, wildfires, and severe storms can create significant financial volatility, making it critical to evaluate historical loss patterns and model potential extreme events. By combining long-term loss data with catastrophe risk modeling, actuaries can estimate pure premium rates that reflect both expected losses and tail risk.
+Pricing catastrophe risk accurately is essential for insurers managing exposure to large, unpredictable losses. Natural disasters such as hurricanes, wildfires, and severe storms can create significant financial volatility, making it critical to evaluate historical loss patterns and model extreme events. By combining long-term loss data with catastrophe risk modeling, actuaries can estimate pure premium rates that reflect both expected losses and tail risk.
 
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **[Fall 2025 Beam Benefits Case Competition]**
