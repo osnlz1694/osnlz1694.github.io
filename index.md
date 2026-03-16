@@ -11,7 +11,8 @@ Research project currently in planning phase.
 
 **Net Revenue Management Case Study**
 
-gg
+Effective net revenue management (NRM) is essential for companies launching new products in competitive markets. Businesses must evaluate sales performance, market share, and pricing strategies to identify opportunities for sustainable growth. By analyzing historical sales data and applying financial modeling techniques, organizations can estimate the impact of pricing, trade investments, and cost structures on profitability.
+
 
 ## Case Competitions
 
