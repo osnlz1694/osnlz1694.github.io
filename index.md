@@ -21,7 +21,7 @@ Net revenue management helps companies evaluate pricing, sales performance, and 
 Accurately estimating unpaid claims is critical for maintaining the financial stability of health insurers. Because claims are often reported and paid months after services occur, actuaries analyze historical payment patterns and apply reserving methods to estimate IBNP liabilities.
 
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **Travelers Actuarial Case Competition - Excel**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/d01ec9b6-6951-4c28-8908-d234c2719f8a"> **Travelers 2026 Actuarial Case Competition - Excel**
 
 Pricing catastrophe risk is essential for insurers managing exposure to rare but severe losses. By analyzing long-term loss data and modeling extreme events, actuaries estimate pure premiums that reflect both expected losses and tail risk.
 
