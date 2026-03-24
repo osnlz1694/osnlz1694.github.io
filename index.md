@@ -9,7 +9,7 @@ title: Portfolio
 
 Research project currently in planning phase.
 
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel]**
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel](https://github.com/osnlz1694/Net-Revenue-Management-Case-Study)**
 
 Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
 
