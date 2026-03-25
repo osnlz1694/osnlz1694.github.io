@@ -5,6 +5,10 @@ title: Portfolio
 
 ## <ins> **Currently Working On** <ins>
 
+**Exam P Preparation**
+
+Sitting July 2026
+
 **Demography 130 Research Project - R**
 
 Research project currently in planning phase.
