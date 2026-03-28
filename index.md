@@ -7,16 +7,11 @@ title: Portfolio
 
 **Exam P Preparation**
 
-Sitting July 2026
+Retaking on July 2026
 
 **Demography 130 Research Project - R**
 
 Research project currently in planning phase.
-
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel](https://github.com/osnlz1694/Net-Revenue-Management-Case-Study)**
-
-Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
-
 
 ## <ins> **Case Competitions** <ins>
 
@@ -36,6 +31,10 @@ Insurers must design pricing structures that balance affordability with stable r
 
 
 ## <ins> **Featured Projects** <ins>
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel](https://github.com/osnlz1694/Net-Revenue-Management-Case-Study)**
+
+Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
 
 <img align="left" width="250" height="170" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Supplier Performance Analysis - SQL](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
 
