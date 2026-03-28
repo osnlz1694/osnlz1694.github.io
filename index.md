@@ -9,9 +9,23 @@ title: Portfolio
 
 Retaking on July 2026
 
+
 **Demography 130 Research Project - R**
 
 Research project currently in planning phase.
+
+
+## <ins> **Featured Projects** <ins>
+
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel](https://github.com/osnlz1694/Net-Revenue-Management-Case-Study)**
+
+Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
+
+
+<img align="left" width="250" height="170" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Supplier Performance Analysis - SQL](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
+
+Strong supplier performance is essential for keeping operations smooth and minimizing costly disruptions. Defective materials and delays can lead to significant downtime, affecting both efficiency and customer satisfaction. To manage these risks, it’s important to track and evaluate supplier quality using reliable data.
+
 
 ## <ins> **Case Competitions** <ins>
 
@@ -28,17 +42,6 @@ Pricing catastrophe risk is essential for insurers managing exposure to rare but
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/a6e12b61-6d74-4d8b-9a9c-8ddbe79208a2"> **Fall 2025 Beam Benefits Case Competition - Excel**
 
 Insurers must design pricing structures that balance affordability with stable risk pools. When multiple plan options exist, adverse selection can occur if higher-risk members choose more generous plans. Analyzing pricing incentives and cost-sharing structures helps insurers manage risk and maintain stable premiums.
-
-
-## <ins> **Featured Projects** <ins>
-
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/4de56af8-c1de-4bfb-8478-8d94087a8299"> **[Net Revenue Management Case Study - Excel](https://github.com/osnlz1694/Net-Revenue-Management-Case-Study)**
-
-Net revenue management helps companies evaluate pricing, sales performance, and profitability when launching new products. By analyzing market share, growth trends, and cost structures, businesses can forecast revenue potential and assess the financial impact of new product strategies.
-
-<img align="left" width="250" height="170" src="https://github.com/user-attachments/assets/e5f65270-5121-48d0-b454-d348b6553f25"> **[Supplier Performance Analysis - SQL](https://github.com/osnlz1694/Supplier-Quality-Analysis-Identifying-and-Prioritizing-Underperforming-Vendors)**
-
-Strong supplier performance is essential for keeping operations smooth and minimizing costly disruptions. Defective materials and delays can lead to significant downtime, affecting both efficiency and customer satisfaction. To manage these risks, it’s important to track and evaluate supplier quality using reliable data.
 
 
 ## <ins> **Other Projects** <ins>
