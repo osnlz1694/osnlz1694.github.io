@@ -5,7 +5,7 @@ title: Portfolio
 
 ## <ins> **Currently Working On** <ins>
 
-**Insurance Care & Preventive Coverage in Colombia Research Project - R**
+**Skilled Delivery Care's Impact on Child Survival in Nigeria Research Project - R**
 
 Research project currently in planning phase.
 
@@ -22,17 +22,16 @@ Net revenue management helps companies evaluate pricing, sales performance, and 
 Strong supplier performance is essential for keeping operations smooth and minimizing costly disruptions. Defective materials and delays can lead to significant downtime, affecting both efficiency and customer satisfaction. To manage these risks, it’s important to track and evaluate supplier quality using reliable data.
 
 
+<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County - Python](https://github.com/osnlz1694/Predicting-Housing-Prices-in-Cook-County)**
+
+Accurately estimating housing prices is important for understanding housing market dynamics and supporting fair property valuation. By analyzing large property datasets and applying regression modeling techniques, analysts can identify key factors that influence home prices.
+
+
 ## <ins> **Other Projects** <ins>
 
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Warframe Price Trend Forecasting - SQL, Tableau](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
 
 In-game item prices can shift quickly as player demand changes across seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization highlight optimal buy/sell windows for maximizing short-run profits.
-
-
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/f4ecb4bb-a33e-4cd8-9832-49230f93bb49"> **[Predicting Housing Prices in Cook County - Python](https://github.com/osnlz1694/Predicting-Housing-Prices-in-Cook-County)**
-
-Accurately estimating housing prices is important for understanding housing market dynamics and supporting fair property valuation. By analyzing large property datasets and applying regression modeling techniques, analysts can identify key factors that influence home prices.
-
 
 
 ## <ins> **Case Competitions** <ins>
