@@ -5,7 +5,7 @@ title: Portfolio
 
 ## <ins> **Currently Working On** <ins>
 
-I'm currently an intern at Sound Physicians as a Marketing Analyst within the Market Management team under Michael Jenks, Director of Market Management.
+I'm an intern at Sound Physicians as a Marketing Analyst within the Market Management team under Michael Jenks, Director of Market Management.
 
 **Skilled Delivery Care's Impact on Child Survival in Nigeria - R**
 
