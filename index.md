@@ -5,9 +5,11 @@ title: Portfolio
 
 ## <ins> **Currently Working On** <ins>
 
-**Skilled Delivery Care's Impact on Child Survival in Nigeria Research Project - R**
+I'm currently interning at Sound Physicians as a Marketing Analyst within the Market Management team under Michael Jenks, Director of Market Management.
 
-Research project currently in planning phase.
+**Skilled Delivery Care's Impact on Child Survival in Nigeria - R**
+
+Research project description update soon.
 
 
 ## <ins> **Featured Projects** <ins>
