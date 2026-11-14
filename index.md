@@ -5,9 +5,15 @@ title: Portfolio
 
 ## <ins> **Currently Working On** <ins>
 
-I'm an intern at Sound Physicians as a Marketing Analyst within the Market Management team under Michael Jenks, Director of Market Management.
+I interned at Sound Physicians as a Marketing Analyst within the Market Management team under Michael Jenks, Director of Market Management.
 
-**Skilled Delivery Care's Impact on Child Survival in Nigeria - R**
+
+**What Do Registered AI Clinical Trials Actually Measure? - SQL, Databricks**
+
+Research project description update soon.
+
+
+**Oregon Medicaid Lottery--Replication of Finkelstein et al. Paper - R**
 
 Research project description update soon.
 
@@ -34,6 +40,11 @@ Accurately estimating housing prices is important for understanding housing mark
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/076f9102-0533-491f-886e-d515b81f4ca0"> **[Warframe Price Trend Forecasting - SQL, Tableau](https://github.com/osnlz1694/Analyzing-and-Visualizing-Price-Patterns-of-In-game-Items)**
 
 In-game item prices can shift quickly as player demand changes across seasons. By analyzing listing data and seasonal patterns, sellers can identify short-term price movements and timing opportunities in the market. EDA and visualization highlight optimal buy/sell windows for maximizing short-run profits.
+
+
+**Skilled Delivery Care's Impact on Child Survival in Nigeria - R**
+
+Research project description update soon.
 
 
 ## <ins> **Case Competitions** <ins>
